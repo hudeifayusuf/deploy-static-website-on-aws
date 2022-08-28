@@ -12,3 +12,8 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 - Website distribution via CloudFront
 - Access website via web browser  
 
+### Prerequisites
+- AWS Account
+- [Student-ready starter code](https://drive.google.com/open?id=15vQ7-utH7wBJzdAX3eDmO9ls35J5_sEQ) - Download and unzip this file.
+> Note that I have customized the starter code by changing the website title and background image.  
+
