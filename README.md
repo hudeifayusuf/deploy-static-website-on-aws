@@ -6,16 +6,16 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 - Accessing the cached website pages using CloudFront content delivery network (CDN) service  
 > CloudFront offers low latency and high transfer speeds during website rendering.  
 
+### Prerequisites
+- AWS Account
+- [Student-ready starter code](https://drive.google.com/open?id=15vQ7-utH7wBJzdAX3eDmO9ls35J5_sEQ) - Download and unzip this file.
+> Note that I have customized the starter code by changing the website title and background image.  
+
 ### Topics Covered
 - S3 bucket creation
 - S3 bucket configuration
 - Website distribution via CloudFront
 - Access website via web browser  
-
-### Prerequisites
-- AWS Account
-- [Student-ready starter code](https://drive.google.com/open?id=15vQ7-utH7wBJzdAX3eDmO9ls35J5_sEQ) - Download and unzip this file.
-> Note that I have customized the starter code by changing the website title and background image.  
 
 ### Steps
 In order to host the website on AWS, I’ve performed the following steps:
