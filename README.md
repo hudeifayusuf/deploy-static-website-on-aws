@@ -5,3 +5,9 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 - Hosting a static website on S3 and
 - Accessing the cached website pages using CloudFront content delivery network (CDN) service. CloudFront offers low latency and high transfer speeds during website rendering.  
 
+### Topics Covered
+- S3 bucket creation
+- S3 bucket configuration
+- Website distribution via CloudFront
+- Access website via web browser  
+
