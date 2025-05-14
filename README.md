@@ -44,6 +44,6 @@ CloudFront has been configured to retrieve and distribute website files as shown
 <br>
 <br>
 5.	Access the website in a browser using the unique CloudFront endpoint.  
-To make sure the deployment was successful, I’ve accessed the website in my browser. You can see the website is live and accessible to anyone on the Internet via a web browser. You can access it by clicking [here](https://d39zy2735e00h8.cloudfront.net)  
+To make sure the deployment was successful, I’ve accessed the website in my browser. You can see the website is live and accessible to anyone on the Internet via a web browser.
 
 ![Website accessible](screenshots/website-access.png)  
